@@ -1,5 +1,5 @@
 # Thema
-Die Anwendung von maschinellem Lernen bei Bilderkennung, Bildkreation, -bearbeitung und Motion Capture und deren Implikationen.
+Die Anwendung von maschinellem Lernen bei Bilderkennung und Motion Capture und deren Implikationen.
 
 # Gliederung
 - Geschichte
@@ -7,28 +7,38 @@ Die Anwendung von maschinellem Lernen bei Bilderkennung, Bildkreation, -bearbeit
         - Isaac Asimov → Robotergesetze
     - Alan Turing und der Turing-Test
 - Algorithmen
-    - überwachtes Lernen (supervised learning)
-        - teilüberwachtes Lernen (semi-supervised learning)
-        - destärkendes Lernen (reinforcement learning)
-        - aktives Lernen
-    - unüberwachtes Lernen (unsupervised learning)
-- Bilderkennung
+    - überwachtes Lernen (supervised learning) vs. unüberwachtes Lernen (unsupervised learning)
+    - Support Vector Machine (SVM)
+    - Bayessches Netz
+    - Künstliches neuronales Netz (KNN/ANN: artificial neural network)
+    - Deep Learning
+- Bilderkennungsverfahren und Beispiele
     - Objekterkennung
         - reCAPTCHA
     - Zeichenerkennung
-    - Objekterkennung
     - Gesichtserkennung
-        - Eingriff in unsere Privatsphäre oder erleichtert es unser Leben?
+        - Gesichtsfilter
     - Motion Capture
         - Animation
-        - Gesichtsfilter
     - Optisches Radar/LIDAR (Light Detection and Ranging) und stereoskopisches Sehen
-        - autonomes Fahren
-        - AR (augmentierte/erweiterte Realität)
     - Deepfakes
 - Problemfrage
     - Stichprobenverzerrung bei Trainingsdaten (sample bias)
-    - Upload-Filter
+    - Upload-Filter — Zensur?
+    - Gesichtserkennung
+        - praktisches Nützen
+        - Eingriff in die Privatsphäre?
+        - staatliche Überwachung
+        - Überwachung durch Firmen
+            - finanzieller Anreiz
+    - Motion Capture
+        - Militärische Verwendungszweck
+    - Deepfakes
+        - Politik
+            - Fake News
+            - Karikatur
+        - Popkultur
+- Fazit
 
 # Problemfrage
-Ist die automatische Kategorisierung und das Filtern von graphischen Inhalten mittels Methoden der KI moralisch vertretbar?
+Automatische Kategorisierung und Filtern grafischer Inhalte dank künstlicher Intelligenz — Lösung zahlreicher Alltagsprobleme oder Bedrohung unserer Persönlichkeitsrechte?
